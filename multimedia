@@ -1,0 +1,4 @@
+/* This styling goes into your github page because of shadow dom issues. */
+.chat-content a {
+    color: #fff;
+}
